@@ -15,17 +15,18 @@
 ## ---------------------------
 ##
 ## Notes:
+##
+##   Run through these exercises for practice with some of the 
+##   R concepts we've learned so far. Links to the particular chapter 
+##   on the NN R training website are provided. 
+##
+##   BEFORE YOU START!
 ##   
+##   Make a new branch and check it out (usually one step)!!!
+##
 ##
 ## ---------------------------
 
-## set working directory here or make sure there is a .Rproj file
-
-## ---------------------------
-
-options(scipen = 6, digits = 4) # view outputs in non-scientific notation
-
-## ---------------------------
 
 ## load up the packages we will need: 
 
