@@ -34,7 +34,8 @@ require(tidyverse)
 require(sf)
 require(leaflet)
 
-# TEST TEST TEST
+# TEST TEST TEST 
+# 4/14/2021 (Date added by Tomoko)
 
 # 1 - Functions and manipulating vectors ----------------------------
   
