@@ -50,6 +50,7 @@ require(leaflet)
     vector_2 <- sample(1:1000, 25, replace=FALSE)
     
     # This is where the function will go, and I am testing again
+    # This is a second change to test a second commit
 
     
 # 2 - Lists ----------------------------
