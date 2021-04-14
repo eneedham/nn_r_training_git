@@ -79,7 +79,18 @@ require(leaflet)
       # NN R training https://perkinsandwill.github.io/nn_r_training/posts/r-basics-2/#control-flows
   
 
+  for(i in 1:nrow(fruit)) {
+    
+    print(fruit$color[i])
+    
+  }
   
+  
+  for(i in 1:nrow(fruit)) {
+    
+    if(fruit$round[i] == TRUE) print(fruit$name[i])
+      else(print(fruit$color[i]))
+  }
 
 # 4 - Leaflet, Making maps ----------------------------
   
