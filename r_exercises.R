@@ -35,7 +35,7 @@ require(sf)
 require(leaflet)
 
 # TEST TEST TEST
-# DEMO COMMIT, PUSH, PULL REQUEST
+# DEMO COMMIT, PUSH, PULL REQUESTS
 
 # 1 - Functions and manipulating vectors ----------------------------
   
